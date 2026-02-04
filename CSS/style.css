@@ -1,0 +1,48 @@
+body{
+    background-color: #000000;
+}
+h1{
+    color: #33A8DB;
+}
+#title {
+  background-image: url('../img/banner.png'); /* Define a imagem */
+  background-size: cover;              /* Ajusta a imagem para cobrir o fundo */
+  background-repeat: no-repeat;        /* Não repete a imagem */
+  background-position: center;         /* Centraliza a imagem */
+}
+h2{
+    color: #33A8DB;
+}
+p{
+    color: aliceblue;
+}
+#inscrever{
+    border: #33A8DB solid 1px;
+    display: inline;
+}
+.container{
+    background-image: url("../img/woman-code.png");
+    width: 10000px;
+    height: 100px;
+    border: 1px 1px 1px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+b{
+    color: #33A8DB;
+}
+.mod{
+    border: 2px solid;
+    border-radius: 5px;
+    display: inline;
+    border-color: #33A8DB;
+}
+a{
+    text-decoration: none;
+}
+#shadow{
+    text-shadow: 2px 2px #33A8DB;
+    color: aliceblue;
+}
